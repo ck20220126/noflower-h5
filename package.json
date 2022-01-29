@@ -1,0 +1,39 @@
+{
+  "name": "noflower-h5",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "vue-cli-service serve",
+    "build": "vue-cli-service build",
+    "lint": "vue-cli-service lint"
+  },
+  "dependencies": {
+    "core-js": "^3.6.4",
+    "lodash": "^4.17.20",
+    "vant": "^2.11.2",
+    "vue": "^2.6.12",
+    "vue-router": "^3.4.9",
+    "vuex": "^3.6.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.3.0",
+    "@vue/cli-plugin-eslint": "~4.3.0",
+    "@vue/cli-plugin-router": "~4.3.0",
+    "@vue/cli-plugin-vuex": "~4.3.0",
+    "@vue/cli-service": "~4.3.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "babel-eslint": "^10.1.0",
+    "babel-plugin-import": "^1.8.0",
+    "babel-plugin-lodash": "^3.3.4",
+    "eslint": "^6.8.0",
+    "eslint-plugin-prettier": "^3.1.1",
+    "eslint-plugin-vue": "^6.2.2",
+    "less": "^3.13.0",
+    "less-loader": "^5.0.0",
+    "less-plugin-functions": "^1.0.0",
+    "lodash-webpack-plugin": "^0.11.5",
+    "prettier": "^1.19.1",
+    "vue-cli-plugin-vant": "^1.0.1",
+    "vue-template-compiler": "^2.6.12"
+  }
+}
